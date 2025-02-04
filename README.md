@@ -1,1 +1,1 @@
-# Expansion-game--IA-Generaci-n-de-Prompts
+# Expansion-game--IA-Generación-de-Prompts
